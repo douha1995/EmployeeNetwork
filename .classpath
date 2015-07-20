@@ -5,7 +5,75 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
-	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_51">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-aop-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-aop-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-aop-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-aspects-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-aspects-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-aspects-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-beans-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-beans-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-beans-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-context-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-context-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-context-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-context-support-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-context-support-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-context-support-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-core-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-core-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-core-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-expression-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-expression-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-expression-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-instrument-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-instrument-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-instrument-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-instrument-tomcat-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-instrument-tomcat-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-instrument-tomcat-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-jdbc-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-jdbc-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-jdbc-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-jms-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-jms-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-jms-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-messaging-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-messaging-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-messaging-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-orm-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-orm-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-orm-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-oxm-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-oxm-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-oxm-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-test-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-test-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-test-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-tx-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-tx-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-tx-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-web-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-web-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-web-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-webmvc-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-webmvc-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-webmvc-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-webmvc-portlet-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-webmvc-portlet-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-webmvc-portlet-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-websocket-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-websocket-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/spring/libs/spring-websocket-4.1.7.RELEASE-sources.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
