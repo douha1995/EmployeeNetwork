@@ -5,7 +5,79 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
-	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-aop-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-aop-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-aop-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-aspects-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-aspects-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-aspects-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-beans-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-beans-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-beans-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-context-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-context-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-context-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-context-support-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-context-support-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-context-support-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-core-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-core-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-core-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-expression-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-expression-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-expression-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-instrument-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-instrument-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-instrument-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-instrument-tomcat-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-instrument-tomcat-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-instrument-tomcat-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-jdbc-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-jdbc-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-jdbc-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-jms-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-jms-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-jms-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-messaging-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-messaging-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-messaging-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-orm-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-orm-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-orm-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-oxm-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-oxm-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-oxm-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-test-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-test-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-test-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-tx-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-tx-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-tx-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-web-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-web-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-web-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-webmvc-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-webmvc-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-webmvc-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-webmvc-portlet-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-webmvc-portlet-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-webmvc-portlet-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-websocket-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-websocket-4.1.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/spring-framework-4.1.7.RELEASE/libs/spring-websocket-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_45">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/jsp-filter-2.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/jstl-connector-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anna/Downloads/standard-project-0.7.4.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
