@@ -14,4 +14,6 @@ public interface SkillRepository {
 	 * @return list of skills of an employee
 	 */	
 	public List<EmployeeSkill> findEmployeeSkills(long employeeID);
+
+	public List<EmployeeSkill> listAllSkills();
 }

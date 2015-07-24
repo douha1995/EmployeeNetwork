@@ -33,6 +33,7 @@
 	<bean id="searchService" class="sef.impl.service.StubSearchServiceImpl" >
 		<constructor-arg ref="employeeRep"/>
 		<constructor-arg ref="projectRep"/>
+		<constructor-arg ref="skillRep" />
 	</bean>
 	
 	<bean id="detailsService" class="sef.impl.service.StubEmployeeDetailsServiceImpl" >

@@ -3,6 +3,7 @@ package sef.interfaces.service;
 import java.util.List;
 
 import sef.domain.Employee;
+import sef.domain.EmployeeSkill;
 import sef.domain.Project;
 
 public interface SearchService {
@@ -32,5 +33,9 @@ public interface SearchService {
 	 * @return list of projects from the database
 	 */
 	public List<Project> listAllProjects();
+
+	public List<EmployeeSkill> listAllSkills();
+
+	public List<Employee> listAllEmployees();
 	
 }

@@ -32,5 +32,7 @@ public interface EmployeeRepository {
 	 * details  
 	 */
 	public Employee findEmployeeByID(long employeeID);
+
+	public List<Employee> listAllEmployees();
 	
 }
