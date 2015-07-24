@@ -12,6 +12,13 @@
 		<constructor-arg ref="searchService" />
 		<constructor-arg ref="detailsService" />
 	</bean>
+	
+	<bean id="insertEmployeeController" class="sef.controller.InsertEmployeeController">
+		<constructor-arg ref="insertEmployeeService" />
+		<constructor-arg ref="insertProjectService" />
+		<constructor-arg ref="insertSkillService" />
+		<constructor-arg ref="searchService" />
+	</bean>
 		
 	<context:component-scan base-package="sef.controller" />
 	

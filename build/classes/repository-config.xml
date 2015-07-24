@@ -42,6 +42,33 @@
 		<constructor-arg ref="skillRep"/>
 	</bean>
 	
+	
+	<bean id="insertEmployeeRep" class="sef.impl.repository.InsertEmployeeRepositoryImpl">
+		<constructor-arg ref="dataSource"/>
+	</bean>
+	
+	<bean id="insertProjectRep" class="sef.impl.repository.InsertProjectRepositoryImpl">
+		<constructor-arg ref="dataSource"/>
+	</bean>
+		
+	<bean id="insertSkillRep" class="sef.impl.repository.InsertSkillRepositoryImpl">
+		<constructor-arg ref="dataSource" />
+	</bean> 
+	
+	<bean id="insertEmployeeService" class="sef.impl.service.InsertEmployeeServiceImpl">
+		<constructor-arg ref="insertEmployeeRep"/>
+		<constructor-arg ref="insertEmployeeRep"/>
+		<constructor-arg ref="insertEmployeeRep"/>
+	</bean>
+	
+	<bean id="insertProjectService" class="sef.impl.service.InsertProjectServiceImpl">
+		<constructor-arg ref="insertProjectRep"/>
+	</bean>
+	
+	<bean id="insertSkillService" class="sef.impl.service.InsertSkillServiceImpl">
+		<constructor-arg ref="insertSkillRep"/>
+	</bean>
+	
 	<bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
     
    <property name="locations">
